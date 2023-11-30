@@ -247,7 +247,10 @@ body {
     .about-image {
       position: relative;
     }
-
+    .about-works__image {
+      width: 100%;
+      height: auto;
+    }
     .about-works {
       position: absolute;
       left: 0;
